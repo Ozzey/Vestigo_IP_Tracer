@@ -1,13 +1,13 @@
 {
     "name": "IP Scraper",
     "description": "Python Flask app for making a App to get the user IP address with some more details in your Telegram chat box.",
-    "repository": "",
-    "logo": "",
+    "repository": "https://github.com/Ozzey/Vestigo_IP_Tracer",
+    "logo": "https://github.com/Ozzey/Vestigo_IP_Tracer/blob/main/Assets/image.jpg?raw=true",
     "keywords": ["Python", "Flask", "API", "IP", "Scrap", "Redirect"],
     "env": {
         "OWNER_ID": {
           "description": "Enter your Telegram user id.",
-          "value": " 659717172"
+          "value": "659717172"
         },
         "BOT_API": {
           "description": "Enter your Bot API which you got from @botfather",
