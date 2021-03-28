@@ -5,7 +5,7 @@ from datetime import datetime
 
 REDIRECT = os.getenv('https://ozzey.github.io')
 BOT_API = os.getenv('1636311956:AAFg8Ui5MdF9b8szO9Hn3nPTAT6rjPD98w8')
-OWNER_ID = os.getenv(' 659717172')
+OWNER_ID = os.getenv('659717172')
 app = Flask(__name__)
 
 
