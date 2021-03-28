@@ -1,0 +1,21 @@
+{
+    "name": "IP Scraper",
+    "description": "Python Flask app for making a App to get the user IP address with some more details in your Telegram chat box.",
+    "repository": "",
+    "logo": "",
+    "keywords": ["Python", "Flask", "API", "IP", "Scrap", "Redirect"],
+    "env": {
+        "OWNER_ID": {
+          "description": "Enter your Telegram user id.",
+          "value": " 659717172"
+        },
+        "BOT_API": {
+          "description": "Enter your Bot API which you got from @botfather",
+          "value": "1636311956:AAFg8Ui5MdF9b8szO9Hn3nPTAT6rjPD98w8"
+        },
+        "REDIRECT_URL": {
+          "description": "Enter the URL which you want the user to redirect in. ( Use https:// or https:// else won't work )",
+          "value": "https://ozzey.github.io"
+        }
+      }
+  }
